@@ -5,7 +5,7 @@ mock dev本地自动化
 
 ### 基础
 
-0. 目录结构介绍
+目录结构介绍
 ```jsx
  '|-- root',
   '    |-- .prettierignore',
